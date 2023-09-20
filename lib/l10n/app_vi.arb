@@ -1,0 +1,23 @@
+{
+    "@@locale" : "vi",
+    "alltodo" : "Danh sách",
+    "addtodo" : "Thêm một việc cần làm !",
+    "light" : "Sáng",
+    "dark" : "Tối",
+    "search" : "Tìm kiếm...",
+    "deleteall" : "Xoá tất cả",
+    "areyousuretodeleteall" : "Bạn có chắc chắn xoá hết?",
+    "comfirmdeleteall" : "Xoá tất cả việc cần làm sẽ xoá lịch hẹn và thông báo của tất cả công việc !",
+    "areyousuretodelete" : "Bạn có chắc muốn xoá?",
+    "comfirmdelete" : "Sau khi xoá việc cần làm này, sẽ xoá lịch hẹn và thông báo của việc đó!",
+    "selectdatetime" : "Chọn Ngày và Giờ",
+    "date" : "Ngày",
+    "time" : "Giờ",
+    "nodoyet" : "Chưa có công việc !",
+    "emptydatetime" : "Công việc hoặc ngày giờ chưa được điền !",
+    "warningemptydatetime": "Hãy điền tên công việc và chọn ngày giờ trước khi thêm",
+    "language" : "Ngôn ngữ",
+    "titlenotifications" : "Có công việc cần làm !!!",
+    "contentnotifications" : "Công việc: ",
+    "datetimenotifications" : "Vào lúc: "
+}

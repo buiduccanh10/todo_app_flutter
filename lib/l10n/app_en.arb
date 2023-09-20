@@ -1,0 +1,23 @@
+{
+    "@@locale" : "en",
+    "alltodo" : "All to do",
+    "addtodo" : "Add a new to do item !",
+    "light" : "Light",
+    "dark" : "Dark",
+    "search" : "Search...",
+    "deleteall" : "Delete all",
+    "areyousuretodeleteall" : "Are you sure to delete all?",
+    "comfirmdeleteall" : "Delete all to do and their chedules, notifications",
+    "areyousuretodelete" : "Are you sure to delete?",
+    "comfirmdelete" : "After delete this to do, their chedules of this to do is also delete!",
+    "selectdatetime" : "Select Date and Time",
+    "date" : "Date",
+    "time" : "Time",
+    "nodoyet" : "No to do yet !",
+    "emptydatetime" : "Empty Text or Date time !",
+    "warningemptydatetime" : "Please enter a todo text and select datetime before adding.",
+    "language" : "Language",
+    "titlenotifications" : "Upcoming To-do !!!",
+    "contentnotifications" : "To do: ",
+    "datetimenotifications" : "At: "
+}
